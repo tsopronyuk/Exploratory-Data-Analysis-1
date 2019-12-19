@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis_project1
-My first project (Exploratory Data Analysis)
+
 
 Task:
 For each plot I 
